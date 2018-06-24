@@ -1,0 +1,2 @@
+https://radimrehurek.com/gensim/models/word2vec.html
+https://radimrehurek.com/gensim/models/doc2vec.html
